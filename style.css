@@ -28,3 +28,7 @@ header h3 {
   float: left;
   text-decoration: none;
 }
+
+header h3 a {
+  text-decoration: none;
+}
