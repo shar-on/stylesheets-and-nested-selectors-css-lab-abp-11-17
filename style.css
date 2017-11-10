@@ -26,9 +26,9 @@ nav a {
 header h3 {
   font-size: 30px;
   float: left;
-  text-decoration: none;
 }
 
-h3 a {
+header h3 a {
   text-decoration: none;
+  color: #868e96;
 }
